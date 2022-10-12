@@ -1,3 +1,3 @@
 # ITE306_MODULE20_VALDEZ
-Run script.py
-Copy the url, and run it in the browser
+1. Run script.py
+2. Copy the url, and run it in the browser
